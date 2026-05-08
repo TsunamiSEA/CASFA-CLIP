@@ -1,2 +1,2 @@
 # CASFA-CLIP
-In the development phase...
+The code and weight will only be released after the paper accepted.
